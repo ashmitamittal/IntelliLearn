@@ -1,7 +1,7 @@
 # IntelliLearn
 Enabling informal learning online (e.g., music, cooking, languages)
 
-In the HCI course project at the University of Waterloo, our team of four tackled the challenge of enabling informal online learning in areas like music, cooking, and languages. Our goal was to devise a mobile application solution that directly addresses real-world problems related to informal learning.
+In the HCI course project at UWaterloo, our team of four tackled the challenge of enabling informal online learning in areas like music, cooking, and languages. Our goal was to devise a mobile application solution that directly addresses real-world problems related to informal learning.
 
 ## Project Overview
 Throughout the term, we:
@@ -29,7 +29,7 @@ Detailed insights into our design journey and decision-making processes.
 
 
 ## Team Members
-- Ashmita Mittal / a47mittal@uwaterloo.ca
-- Chenhui Gu / c46gu@uwaterloo.ca
-- Ethan Hong / m37hong@uwaterloo.ca
-- Joseph Perez / j22perez@uwaterloo.ca
+- Ashmita Mittal
+- Chenhui Gu
+- Ethan Hong
+- Joseph Perez
